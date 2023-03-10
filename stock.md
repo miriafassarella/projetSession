@@ -17,6 +17,8 @@ class Femme{
 #char taille
 +Femme()
 +Femme(string type, string couleur, char taille)
++Femme(const Femme& autreFemme)
++~Femme()
 +getType() string;
 +getCouleur() string;
 +getTaille() char;
