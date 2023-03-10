@@ -32,5 +32,6 @@ class Homme{
 +getCouleur() string
 +getTaille() char
 }
+```
 
 
