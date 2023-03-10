@@ -11,7 +11,7 @@ class Entrepot{
 +Entrepot(int, int)
 }
 
-class Femme (){
+class Femme{
 #string type
 #string couleur
 #char taille
