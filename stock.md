@@ -35,6 +35,16 @@ class Homme{
 +getTaille() char
 }
 
+class Produit{
+-string ref
+-string type
++Produit()
++Produit(string ref, string type)
++getRef() string
++getType() string
+
+}
+
 Entrepot <-- Femme
 Entrepot <--Homme
 ```
