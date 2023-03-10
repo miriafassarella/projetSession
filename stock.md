@@ -32,6 +32,9 @@ class Homme{
 +getCouleur() string
 +getTaille() char
 }
+
+Entrepot <-- Femme
+Entrepot <--Homme
 ```
 
 
